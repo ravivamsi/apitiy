@@ -1,13 +1,11 @@
 package com.api.tests.utils;
 
-import com.intuit.karate.JsonUtils;
 import com.intuit.karate.Match;
 import net.minidev.json.JSONObject;
 import net.minidev.json.parser.JSONParser;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.io.File;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
