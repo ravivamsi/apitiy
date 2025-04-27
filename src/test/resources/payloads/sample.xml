@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+    <sku>ABC123XYZ9</sku>
+    <name>Premium Laptop</name>
+    <price currency="USD">999.99</price>
+    <specifications>
+        <processor>Intel Core i7</processor>
+        <ram>16GB</ram>
+        <storage>512GB SSD</storage>
+    </specifications>
+    <features>
+        <feature>Backlit Keyboard</feature>
+        <feature>4K Display</feature>
+        <feature>Thunderbolt Ports</feature>
+    </features>
+</product> 
